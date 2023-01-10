@@ -9,6 +9,9 @@ public class ReUsableMethods {
 		
 		System.out.println("jira1");
 		
+		System.out.println("jira2");
+		System.out.println("jira3");
+		
 		return js1;
 	}
 
