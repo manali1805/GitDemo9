@@ -16,6 +16,10 @@ public class ReUsableMethods {
 		System.out.println("jira5 arch");
 		System.out.println("jira6 arch");
 		
+		System.out.println("jira7 arch");
+		System.out.println("jira8 arch");
+		System.out.println("jira9 arch");
+		
 		return js1;
 	}
 
